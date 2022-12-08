@@ -68,7 +68,7 @@ html{
     padding: 29px;
     background-color: #1e2326;
     max-width: 340px;
-    max-height: 470px;
+    max-height: 480px;
     margin: auto;
     text-align: center;
     border-radius: 50px;
@@ -95,6 +95,33 @@ html{
     background-color: #14e4ff;
 }
 
-
-
-
+.button-git {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px 12px;
+    border: 0px solid #0f0f0f;
+    border-radius: 15px;
+    background: #070707;
+    background: -webkit-gradient(linear, left top, left bottom, from(#0f0f0f), to(#0f0f0f));
+    background: -moz-linear-gradient(top, #050505, #030303);
+    background: linear-gradient(to bottom, #070707, #050505);
+    font: normal normal normal 12px/18px 'Helvetica Neue',Arial,sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button-git:hover,
+.button-git:focus {
+    background: #050505;
+    background: -webkit-gradient(linear, left top, left bottom, from(#121212), to(#121212));
+    background: -moz-linear-gradient(top, #121212, #121212);
+    background: linear-gradient(to bottom, #121212, #121212);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button-git:active {
+    background: #0f0f0f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#0f0f0f), to(#0f0f0f));
+    background: -moz-linear-gradient(top, #0f0f0f, #0f0f0f);
+    background: linear-gradient(to bottom, #0f0f0f, #0f0f0f);
+}
