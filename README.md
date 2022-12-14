@@ -8,4 +8,4 @@ Updates:
 -Github button has been added (may have bugs).
 
 
-NOTE: If you have any advice you are free to write me on twitter: https://twitter.com/nae_dev?s=20
+NOTE: If you have any advice you are free to write me on twitter: https://twitter.com/iwillnae
